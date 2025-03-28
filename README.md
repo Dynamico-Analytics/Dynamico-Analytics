@@ -58,7 +58,7 @@ Apasionado por transformar datos en decisiones estratégicas. Me encanta aprende
 
 ## 📬 Conecta Conmigo
 - 🌐 [LinkedIn](#)
-- ✉️ [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+- ✉️ [dbarrosg@outlook.com](mailto:dbarrosg@outlook.com)
 - 🐙 [GitHub](#)
 
 ---
