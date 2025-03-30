@@ -10,7 +10,7 @@
 ## 📂 Estructura del Repositorio
 
 ### 🌟 Proyectos Principales:
-- 🧹 **[Limpieza de Datos](#)**: Procesamiento avanzado con Python y Pandas.
+- 🧹 **[Limpieza de Datos](https://github.com/Dynamico-Analytics/Video-Game-Sales/blob/main/Games-Cleaning.ipynb)**: Procesamiento avanzado con Python y Pandas.
 - 🖋️ **[Consultas SQL Creativas](#)**: Extracción estratégica de datos con MySQL.
 - 📈 **[Dashboards en Excel](#)**: Visualizaciones clave con tablas dinámicas.
 
