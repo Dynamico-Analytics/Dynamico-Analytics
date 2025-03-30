@@ -11,8 +11,8 @@
 
 ### 🌟 Proyectos Principales:
 - 🧹 **[Limpieza de Datos](https://github.com/Dynamico-Analytics/Video-Game-Sales/blob/main/Games-Cleaning.ipynb)**: Procesamiento avanzado con Python y Pandas.
-- 🖋️ **[Consultas SQL Creativas](#)**: Extracción estratégica de datos con MySQL.
-- 📈 **[Dashboards en Excel](#)**: Visualizaciones clave con tablas dinámicas.
+- 🖋️ **[Consultas SQL Creativas]([#])**: Extracción estratégica de datos con MySQL.
+- 📈 **[Dashboards en Excel](https://github.com/Dynamico-Analytics/Video-Game-Sales/blob/main/Dashboard.xlsx)**: Visualizaciones clave con tablas dinámicas.
 
 ### 🐍 Scripts Python:
 - Automatización y análisis avanzado de datos 🔄.
