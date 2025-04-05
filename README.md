@@ -1,4 +1,4 @@
-<img src="data.gif" alt="GIF"> a
+<img src="data.gif" alt="GIF">
 
 # 🐍 Portfolio de Data Analyst | Daniel
 
