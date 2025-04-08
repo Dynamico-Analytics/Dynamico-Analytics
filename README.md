@@ -1,6 +1,6 @@
 <img src="data.gif" alt="GIF">
 
-# 🐍 Portfolio de Data Analyst | Daniel
+# 🐍 Portfolio de Data Analyst | Daniela
 
 ## 👋 ¡Bienvenido/a!
 ¡Hola! Soy **Daniel**, un Ingeniero en Informática apasionado por los datos 📊 y la tecnología 💻. Aquí encontrarás mis proyectos destacados, donde utilizo herramientas como **Python** 🐍 y **SQL** 💾 para transformar datos en soluciones estratégicas 🌟.
