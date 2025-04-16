@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy [Tu Nombre]  
 **Ingeniero Informático** con habilidades en análisis de datos, SQL y visualización.  
-*Aunque no tengo experiencia formal como Data Analyst, he desarrollado proyectos personales aplicando técnicas de limpieza de datos, consultas SQL y creación de dashboards en Power BI.*  
+*Tengo experiencia como Data Analyst a través de proyectos personales aplicando técnicas de limpieza de datos, consultas SQL y creación de dashboards en Power BI.*
 
 ---
 
