@@ -1,39 +1,60 @@
-# 🧑💻 **Ingeniero de Datos** | Transformando bytes en insights
-
-[![GitHub Pages](https://img.shields.io/badge/🌐-Portafolio_Interactivo-FF7139)](https://[tu-usuario].github.io)
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)](https://)
-[![Power BI](https://img.shields.io/badge/Power_BI-DAX_Pro-F2C811?logo=powerbi)](https://)
+# 👋 ¡Hola! Soy [Tu Nombre]  
+**Ingeniero Informático** con habilidades en análisis de datos, SQL y visualización.  
+*Aunque no tengo experiencia formal como Data Analyst, he desarrollado proyectos personales aplicando técnicas de limpieza de datos, consultas SQL y creación de dashboards en Power BI.*  
 
 ---
 
-## 🛠️ **Toolbox del Data Dragon**
-| **Lenguajes**      | **Herramientas**       | **Bases de Datos**    |
-|---------------------|------------------------|-----------------------|
-| 🐍 Python (Avanzado) | ⚡ Power BI (DAX, M)   | 🗃️ SQL Server (T-SQL) |
-| 📜 SQL (CTE, Views)  | 🎨 Matplotlib/Seaborn  | 🧩 ETL Processes      |
+## 🔧 Habilidades Técnicas  
+
+### 🐍 **Python (Análisis de Datos)**  
+- Limpieza y transformación de datos con **Pandas** y **NumPy**.  
+- Visualizaciones con **Matplotlib** y **Seaborn**.  
+- Análisis exploratorio (EDA) en **Jupyter Notebook**.  
+
+### 🗃 **SQL Server**  
+- Consultas de nivel medio (JOINs, subconsultas, funciones de agregación).  
+- Creación y optimización de **vistas**.  
+- Modelado básico de bases de datos relacionales.  
+
+### 📊 **Power BI**  
+- Diseño de dashboards interactivos.  
+- **DAX** para métricas avanzadas.  
+- Transformación de datos con **Power Query**.  
 
 ---
 
-## 🏆 **Proyectos Destacados**
+## 🚀 Proyectos Destacados  
 
-### **1. 🧹 Limpieza de Datos Masivos** [![Code](https://img.shields.io/badge/📁-Repositorio-blue)](https://)
-```python
-import pandas as pd
-df = pd.read_csv('datos_sucios.csv')
-df_limpio = df.pipe(transformar_datos).pipe(eliminar_outliers)
-```
-**Logros:**
-- Reducción de 85% en tiempo de procesamiento
-- Pipeline automatizado con Pandas
+### 1️⃣ **Limpieza y Análisis de Datos con Python**  
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/tuusuario/proyecto-python)  
+**Tecnologías**: Python (Pandas, NumPy, Matplotlib)  
+- Limpieza de dataset con valores nulos y duplicados.  
+- Análisis exploratorio (EDA) con visualizaciones clave.  
+- Conclusiones basadas en tendencias de los datos.  
 
-### **2. 📊 Dashboard de Ventas Interactivo** [![Demo](https://img.shields.io/badge/👁️-Ver_Demo-green)](https://)
-![Power BI Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Ejemplo)
+📌 *Ejemplo: Análisis de ventas de e-commerce (proyecto personal).*  
+
+### 2️⃣ **Dashboard Interactivo en Power BI**  
+[![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)](https://github.com/tuusuario/proyecto-powerbi)  
+**Tecnologías**: Power BI, DAX, Power Query  
+- Conexión a base de datos SQL Server.  
+- Transformación de datos con Power Query (M language).  
+- Medidas DAX para KPI estratégicos.  
+- Visualizaciones interactivas (filtros cruzados, tooltips).  
+
+📌 *Ejemplo: Seguimiento de métricas de logística (proyecto personal).*  
 
 ---
 
-## 📞 **Contacto**
-| **Medio**       | **Enlace**                                                                 |
-|-----------------|----------------------------------------------------------------------------|
-| 📧 Email        | [tucorreo@dominio.com](mailto:tucorreo@dominio.com)                       |
-| 💼 LinkedIn    | [Perfil Profesional](https://linkedin.com/in/tuperfil)                    |
-| 🐙 GitHub      | [Repositorios](https://github.com/[tu-usuario])                           |
+## 📚 Cursos Relevantes  
+- **Análisis de Datos con Python** (Coursera/Platzi).  
+- **SQL para Ciencia de Datos** (Udemy).  
+- **Power BI: Desde Cero hasta Dashboards Profesionales** (LinkedIn Learning).  
+
+---
+
+## 📫 Contacto  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)  
+
+✨ *Abierto a oportunidades como Data Analyst Junior o roles similares.*  
