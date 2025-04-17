@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy Daniel Barros
 **Ingeniero Informático** con habilidades en análisis de datos, SQL y visualización.  
 *Tengo experiencia como Data Analyst a través de proyectos personales aplicando técnicas de limpieza de datos, consultas SQL y creación de dashboards en Power BI.*
 
@@ -26,7 +26,7 @@
 ## 🚀 Proyectos Destacados  
 
 ### 1️⃣ **Limpieza y Análisis de Datos con Python**  
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/tuusuario/proyecto-python)  
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/Dynamico-Analytics/Video-Game-Sales/blob/main/Games-Cleaning.ipynb)  
 **Tecnologías**: Python (Pandas, NumPy, Matplotlib)  
 - Limpieza de dataset con valores nulos y duplicados.  
 - Análisis exploratorio (EDA) con visualizaciones clave.  
