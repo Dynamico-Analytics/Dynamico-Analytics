@@ -32,17 +32,15 @@
 - Análisis exploratorio (EDA) con visualizaciones clave.  
 - Conclusiones basadas en tendencias de los datos.  
 
-📌 *Ejemplo: Análisis de ventas de e-commerce (proyecto personal).*  
 
 ### 2️⃣ **Dashboard Interactivo en Power BI**  
-[![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)](https://github.com/tuusuario/proyecto-powerbi)  
+[![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)](https://github.com/Dynamico-Analytics/PowerBI_AdventureWorks)  
 **Tecnologías**: Power BI, DAX, Power Query  
 - Conexión a base de datos SQL Server.  
 - Transformación de datos con Power Query (M language).  
 - Medidas DAX para KPI estratégicos.  
 - Visualizaciones interactivas (filtros cruzados, tooltips).  
 
-📌 *Ejemplo: Seguimiento de métricas de logística (proyecto personal).*  
 
 ---
 
@@ -54,7 +52,7 @@
 ---
 
 ## 📫 Contacto  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbarrosgonzalez/)  
+[![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbarrosg@outlook.com)  
 
 ✨ *Abierto a oportunidades como Data Analyst Junior o roles similares.*  
