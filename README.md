@@ -45,7 +45,7 @@
 ---
 
 ## 📚 Cursos Relevantes  
-- **Análisis de Datos con Python** (Coursera/Platzi).  
+- **Data Analytics con SQL Server y Power BI** (Udemy)
 - **SQL para Ciencia de Datos** (Udemy).  
 - **Power BI: Desde Cero hasta Dashboards Profesionales** (LinkedIn Learning).  
 
